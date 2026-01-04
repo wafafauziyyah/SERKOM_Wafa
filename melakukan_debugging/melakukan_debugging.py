@@ -16,7 +16,7 @@ def urutkan_bubble_sort(kumpulan_angka):
                 kumpulan_angka[j], kumpulan_angka[j + 1] = kumpulan_angka[j + 1], kumpulan_angka[j]
     return kumpulan_angka
 
-def simpan_ke_file():
+def simpan_ke_file(data_angka):
     """Menangani persistensi data ke dalam file teks."""
     try:
         if not os.path.exists(NAMA_FOLDER):

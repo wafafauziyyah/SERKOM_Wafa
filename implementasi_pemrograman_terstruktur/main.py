@@ -1,7 +1,7 @@
 import os
 
 NAMA_FILE = "hasil_urut.txt"
-NAMA_FOLDER = "J.620100.017.02_pemrograman_terstruktur"
+NAMA_FOLDER = "implementasi_pemrograman_terstruktur"
 PATH_LENGKAP = os.path.join(NAMA_FOLDER, NAMA_FILE)
 
 def urutkan_bubble_sort(angka_list):

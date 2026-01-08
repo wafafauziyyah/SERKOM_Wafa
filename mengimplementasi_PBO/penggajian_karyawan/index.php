@@ -14,10 +14,10 @@ use Classes\Manajer;
 use Entity\SlipGaji;
 
 $pegawaiList = [
-    new Satpam("001", "Yudha", 2025, 3000000, 10),
-    new Sales("002", "Atila", 2020, 3500000, 8),
-    new Administrasi("003", "Wafa", 2017, 4000000),
-    new Manajer("004", "Zidan", 2015, 7000000, 12)
+    new Satpam("001", "Seli", 2024, 3000000, 10),
+    new Sales("002", "Doni", 2020, 3500000, 8),
+    new Administrasi("003", "Cia", 2020, 4000000),
+    new Manajer("004", "Seni", 2019, 7000000, 12)
 ];
 
 // Header Tabel

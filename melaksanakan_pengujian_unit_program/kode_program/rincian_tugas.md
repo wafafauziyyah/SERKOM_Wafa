@@ -2,7 +2,7 @@
 
 **Nama Aplikasi:** Listrik Pascabayar  
 **Versi:** 1.0  
-**Tanggal Dokumen:** 4 Januari 2026  
+**Tanggal Dokumen:** 8 Januari 2026  
 
 ---
 
